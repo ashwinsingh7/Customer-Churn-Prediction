@@ -33,6 +33,7 @@ Three machine learning models were implemented:
 Models were evaluated using:
 - **Confusion Matrix, Precision, Recall, and F1-Score** (to assess predictive quality)
 - **ROC-AUC Score** (to compare classification performance across thresholds)
+- **Feature Importance** was also assessed based on the Random Forest classifier and it showed that total daytime minutes and customer service calls were the most important features
 
 
 The results showed that the **Random Forest model achieved the highest AUC score, outperforming Logistic Regression and Decision Tree.**
