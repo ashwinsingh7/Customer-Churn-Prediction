@@ -9,7 +9,7 @@ Customer churn is a critical issue for businesses, as losing customers leads to 
 Many companies struggle with identifying customers who are likely to leave. By predicting churn in advance, businesses can take proactive measures such as offering promotions, improving service quality, or personalizing customer engagement. The goal of this project is to develop a predictive model that accurately classifies customers into 'churn' and 'non-churn' categories.
 
 ## Data Source
-The dataset contains customer demographic details, service usage behavior, contract details, and churn labels. It is sourced from Kaggle.
+The dataset contains cellular usage data including customer demographic details, service usage behavior, contract details, and churn labels. It is sourced from Kaggle.
 
 ## Project Workflow
 ### 1. Data Preprocessing
