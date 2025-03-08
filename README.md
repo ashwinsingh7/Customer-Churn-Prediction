@@ -1,4 +1,4 @@
-# Predicting Customer Churn Using Machine Learning
+# Predicting Customer Churn using Machine Learning
 
 Google Colab notebook can be found here - https://colab.research.google.com/drive/1bebH082uVuyI9XG1KmSEz-E2gCdb-ES3?usp=sharing 
 
