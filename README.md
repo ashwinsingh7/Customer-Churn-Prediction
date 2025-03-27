@@ -43,7 +43,7 @@ Three machine learning models were implemented:
 Models were evaluated using:
 - **Confusion Matrix, Precision, Recall, and F1-Score** (to assess classification accuracy)
 - **ROC-AUC Score** (to compare classification performance across thresholds)
-- **Feature Importance** was also assessed based on the Random Forest classifier and it showed that total daytime minutes and customer service calls were the most important features
+- **Feature Importance** was also assessed based on the Random Forest classifier and it showed that total daytime minutes and customer service calls were the most important features, along with evening minutes and internation plan subscription also being potentially significant
 
 <img width="500" alt="Screenshot 2025-03-27 at 12 17 13 PM" src="https://github.com/user-attachments/assets/1c59e953-2e74-4ca5-9511-abbcb9d1b8f1" />
 
