@@ -63,9 +63,9 @@ Model recall: 73%
 
 Retention success rate (with intervention): 50%
 
-Average Customer Lifetime Value (CLV): Rs. 9600
+Average Customer Lifetime Value (CLV): Rs. 9600 (Indian Market), $ 1040 (American Market)
 
-**Estimated annual revenue retention: Rs. 3.4 CRORE**
+**Estimated annual revenue retention: Rs. 3.4 CRORE (Indian estimate), or, $ 3.7 million (American estimate)**
 
 
 
