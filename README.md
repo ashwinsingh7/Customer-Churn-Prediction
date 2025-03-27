@@ -3,13 +3,13 @@
 Google Colab notebook can be found here - https://colab.research.google.com/drive/1bebH082uVuyI9XG1KmSEz-E2gCdb-ES3?usp=sharing 
 
 ## Project Overview
-Customer churn is a critical issue for businesses, as losing customers leads to revenue loss and increased acquisition costs. This project leverages supervised machine learning models to predict customer churn, helping businesses implement targeted retention strategies.
+Customer churn is a critical issue for subscription-based businesses. In the telecom industry, identifying customers at risk of leaving allows companies to take proactive retention measures and reduce revenue loss. This project aims to build a machine learning model to predict whether a customer will churn based on their service usage and account features.
 
 ## Problem Statement
 Many companies struggle with identifying customers who are likely to leave. By predicting churn in advance, businesses can take proactive measures such as offering promotions, improving service quality, or personalising customer engagement. The goal of this project is to develop a predictive model that accurately classifies customers into 'churn' and 'non-churn' categories based on the available data.
 
 ## Data Source
-The dataset contains cellular usage data including customer demographic details, service usage behavior, contract details, and churn labels. It is sourced from Kaggle.
+The dataset contains cellular usage data for ~3,400 customers including customer demographic details, service usage behavior, contract details, and churn labels. It is sourced from Kaggle.
 
 <img width="300" alt="Screenshot 2025-03-27 at 12 09 16 PM" src="https://github.com/user-attachments/assets/1207ff84-def2-4862-83c4-f801749c1a3a" />
 
@@ -47,7 +47,26 @@ Models were evaluated using:
 
 <img width="500" alt="Screenshot 2025-03-27 at 12 17 13 PM" src="https://github.com/user-attachments/assets/1c59e953-2e74-4ca5-9511-abbcb9d1b8f1" />
 
-
-
 The results showed that the **Random Forest model achieved the highest AUC score, outperforming Logistic Regression and Decision Tree** models; it also achieved the highest classification accuracy of 94%.
+
+<br>
+
+
+
+## Business Impact Assessment (based on industry benchmarks):
+
+Average churn rate: ~14.5%
+
+Estimated customers at risk: ~7092/year
+
+Model recall: 73%
+
+Retention success rate (with intervention): 50%
+
+Average Customer Lifetime Value (CLV): Rs. 9600
+
+**Estimated annual revenue retention: Rs. 3.4 CRORE**
+
+
+
 
