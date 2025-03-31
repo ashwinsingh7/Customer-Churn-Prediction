@@ -55,15 +55,21 @@ The results showed that the **Random Forest model achieved the highest AUC score
 
 ## Business Impact Assessment (based on industry benchmarks):
 
-Average churn rate: ~14.5%
+ASSUMPTIONS:
 
-Estimated customers at risk: ~7092/year
+Average churn rate: ~14.5% (based on the given dataset)
+
+Estimated customers at risk: ~9715/year (assuming the dataset to be a sample comprising 5% of all users)
 
 Model recall: 73%
 
 Retention success rate (with intervention): 50%
 
 Average Customer Lifetime Value (CLV): Rs. 9600 (Indian Market), $ 1040 (American Market)
+
+<br>
+
+ESTIMATED IMPACT:
 
 **Estimated annual revenue retention: Rs. 3.4 CRORE (Indian estimate), or, $ 3.7 million (American estimate)**
 
